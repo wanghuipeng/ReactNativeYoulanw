@@ -1,0 +1,44 @@
+{
+"CITIES":[
+{
+"code":"110100",
+"name":"北京市",
+"name_en":"Beijing"
+},
+{
+"code":"120100",
+"name":"天津市",
+"name_en":"Tianjin"
+},
+{
+"code":"130100",
+"name":"石家庄市",
+"name_en":"Shijiazhuang Shi"
+},
+{
+"code":"130200",
+"name":"唐山市",
+"name_en":"Tangshan Shi"
+},
+{
+"code":"130300",
+"name":"秦皇岛市",
+"name_en":"Qinhuangdao Shi"
+},
+{
+"code":"130400",
+"name":"邯郸市",
+"name_en":"Handan Shi"
+},
+{
+"code":"130500",
+"name":"邢台市",
+"name_en":"Xingtai Shi"
+},
+{
+"code":"130600",
+"name":"保定市",
+"name_en":"Baoding Shi"
+}
+]
+}

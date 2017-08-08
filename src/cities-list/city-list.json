@@ -1,0 +1,189 @@
+{
+  "allCityList" : [ {
+    "name" : "阿坝",
+    "spellName" : "aba",
+    "id" : 5780,
+    "fullname" : "四川/阿坝",
+    "sortLetters" : "a"
+  }, {
+    "name" : "阿克苏",
+    "spellName" : "akesudi",
+    "id" : 6474,
+    "fullname" : "新疆/阿克苏",
+    "sortLetters" : "a"
+  }, {
+    "name" : "阿拉善",
+    "spellName" : "alashanmeng",
+    "id" : 3862,
+    "fullname" : "内蒙古/阿拉善",
+    "sortLetters" : "a"
+  }, {
+    "name" : "阿勒泰",
+    "spellName" : "aletaidi",
+    "id" : 6542,
+    "fullname" : "新疆/阿勒泰",
+    "sortLetters" : "a"
+  }, {
+    "name" : "阿里",
+    "spellName" : "alidi",
+    "id" : 6134,
+    "fullname" : "西藏/阿里",
+    "sortLetters" : "a"
+  }, {
+    "name" : "安康",
+    "spellName" : "ankang",
+    "id" : 6248,
+    "fullname" : "陕西/安康",
+    "sortLetters" : "a"
+  }, {
+    "name" : "安庆",
+    "spellName" : "anqing",
+    "id" : 4482,
+    "fullname" : "安徽/安庆",
+    "sortLetters" : "a"
+  }, {
+    "name" : "鞍山",
+    "spellName" : "anshan",
+    "id" : 3898,
+    "fullname" : "辽宁/鞍山",
+    "sortLetters" : "a"
+  }, {
+    "name" : "安顺",
+    "spellName" : "anshun",
+    "id" : 5861,
+    "fullname" : "贵州/安顺",
+    "sortLetters" : "a"
+  }, {
+    "name" : "安阳",
+    "spellName" : "anyang",
+    "id" : 4966,
+    "fullname" : "河南/安阳",
+    "sortLetters" : "a"
+  }, {
+    "name" : "白城",
+    "spellName" : "baicheng",
+    "id" : 4041,
+    "fullname" : "吉林/白城",
+    "sortLetters" : "b"
+  }, {
+    "name" : "百色",
+    "spellName" : "baise",
+    "id" : 5527,
+    "fullname" : "广西/百色",
+    "sortLetters" : "b"
+  }, {
+    "name" : "白沙",
+    "spellName" : "baishalizuz",
+    "id" : 5582,
+    "fullname" : "海南/白沙",
+    "sortLetters" : "b"
+  }, {
+    "name" : "白山",
+    "spellName" : "baishan",
+    "id" : 4028,
+    "fullname" : "吉林/白山",
+    "sortLetters" : "b"
+  }, {
+    "name" : "白银",
+    "spellName" : "baiyin",
+    "id" : 6279,
+    "fullname" : "甘肃/白银",
+    "sortLetters" : "b"
+  }, {
+    "name" : "蚌埠",
+    "spellName" : "bangbu",
+    "id" : 4452,
+    "fullname" : "安徽/蚌埠",
+    "sortLetters" : "b"
+  }, {
+    "name" : "保定",
+    "spellName" : "baoding",
+    "id" : 3545,
+    "fullname" : "河北/保定",
+    "sortLetters" : "b"
+  }, {
+    "name" : "宝鸡",
+    "spellName" : "baoji",
+    "id" : 6169,
+    "fullname" : "陕西/宝鸡",
+    "sortLetters" : "b"
+  }, {
+    "name" : "保山",
+    "spellName" : "baoshan",
+    "id" : 5961,
+    "fullname" : "云南/保山",
+    "sortLetters" : "b"
+  }, {
+    "name" : "保亭",
+    "spellName" : "baotinglizu",
+    "id" : 5585,
+    "fullname" : "海南/保亭",
+    "sortLetters" : "b"
+  }, {
+    "name" : "包头",
+    "spellName" : "baotou",
+    "id" : 3770,
+    "fullname" : "内蒙古/包头",
+    "sortLetters" : "b"
+  }, {
+    "name" : "巴彦淖尔",
+    "spellName" : "bayannaoerm",
+    "id" : 3854,
+    "fullname" : "内蒙古/巴彦淖尔",
+    "sortLetters" : "b"
+  }, {
+    "name" : "巴音郭楞",
+    "spellName" : "bayinguolen",
+    "id" : 6501,
+    "fullname" : "新疆/巴音郭楞",
+    "sortLetters" : "b"
+  }, {
+    "name" : "巴中",
+    "spellName" : "bazhong",
+    "id" : 5770,
+    "fullname" : "四川/巴中",
+    "sortLetters" : "b"
+  }, {
+    "name" : "北海",
+    "spellName" : "beihai",
+    "id" : 5501,
+    "fullname" : "广西/北海",
+    "sortLetters" : "b"
+  }, {
+    "name" : "北京",
+    "spellName" : "beijing",
+    "id" : 6550,
+    "fullname" : "北京/北京",
+    "sortLetters" : "b"
+  }, {
+    "name" : "本溪",
+    "spellName" : "benxi",
+    "id" : 3914,
+    "fullname" : "辽宁/本溪",
+    "sortLetters" : "b"
+  }, {
+    "name" : "毕节地",
+    "spellName" : "bijiedi",
+    "id" : 5879,
+    "fullname" : "贵州/毕节地",
+    "sortLetters" : "b"
+  }, {
+    "name" : "滨州",
+    "spellName" : "binzhou",
+    "id" : 4867,
+    "fullname" : "山东/滨州",
+    "sortLetters" : "b"
+  }, {
+    "name" : "博尔塔拉",
+    "spellName" : "boertala",
+    "id" : 6520,
+    "fullname" : "新疆/博尔塔拉",
+    "sortLetters" : "b"
+  }, {
+    "name" : "沧州",
+    "spellName" : "cangzhou",
+    "id" : 3601,
+    "fullname" : "河北/沧州",
+    "sortLetters" : "c"
+  } ]
+}

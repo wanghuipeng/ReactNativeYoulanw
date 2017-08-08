@@ -1,0 +1,36 @@
+{
+  "lastVisitCityList": [
+    {
+      "name": "北京",
+      "spellName": "benxi",
+      "id": "14",
+      "fullname": "辽宁/本溪",
+      "sortLetters": "b"
+    },
+    {
+      "name": "西安",
+      "spellName": "bijiedi",
+      "id": "34",
+      "fullname": "贵州/毕节地",
+      "sortLetters": "b"
+    },
+  ],
+  "hotCityList": [
+    {
+      "name": "上海",
+      "spellName": "aba",
+      "id": "1",
+      "fullname": "四川/阿坝",
+      "sortLetters": "a"
+    },
+  ],
+  "allCityList": [
+    {
+      "name": "武汉",
+      "spellName": "alashanmeng",
+      "id": "16",
+      "fullname": "内蒙古/阿拉善",
+      "sortLetters": "a"
+    }
+    ]
+}
