@@ -5,7 +5,6 @@ import ServiceURL from '../common/service';
 import ChatMess from './chatMess';
 import ChatDetail from '../../pages/chatDetail';
 
-var arr= [];
 class ChatItem extends Component {
 	constructor(props) {
 	    super(props);
