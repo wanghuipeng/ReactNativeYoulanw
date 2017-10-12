@@ -1,7 +1,6 @@
 /*
  接口API
 优蓝网测试环境api地址：http://10.12.1.44:8080/api/
-线上环境api地址： https://life-api.youlanw.com/api/
  * */
 
 var BaseURL ="http://10.12.1.44:8080/api/";
